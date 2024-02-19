@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EuroTour - Sua Viagem pela Europa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        header span {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+        footer {
+            background-color: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+        }
+        footer nav ul {
+            margin: 0;
+            padding: 0;
+        }
+        footer nav ul li {
+            display: inline;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <span>EuroTour</span>
+        <nav>
+            <ul>
+                <li>Passagens</li>
+                <li>Hospedagem</li>
+                <li>Pontos Turísticos</li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Bem-vindos à EuroTour</h1>
+        <h2>Sobre nós</h2>
+        <p>EuroTour é um site dedicado a ajudá-lo a planejar sua viagem à Europa, desde a compra das passagens até a visita aos pontos turísticos mais importantes de cada região!</p>
+    </main>
+
+    <footer>
+        <span>EuroTour(c) - Todos os direitos reservados</span>
+        <nav>
+            <ul>
+                <li>Facebook</li>
+                <li>Instagram</li>
+                <li>Linkedin</li>
+            </ul>
+        </nav>
+    </footer>
+</body>
+</html>
